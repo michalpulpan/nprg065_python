@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/pyjustify.iml" filepath="$PROJECT_DIR$/.idea/pyjustify.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PyJustify2.iml" filepath="$PROJECT_DIR$/.idea/PyJustify2.iml" />
     </modules>
   </component>
 </project>

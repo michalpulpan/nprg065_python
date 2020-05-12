@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/pulpan/Documents/Projects/pyjustify/venv"
+set -gx VIRTUAL_ENV "/Users/pulpan/Library/Mobile Documents/com~apple~CloudDocs/MFF/2LS/NPRG065 _PYTHON/PyJustify2/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
